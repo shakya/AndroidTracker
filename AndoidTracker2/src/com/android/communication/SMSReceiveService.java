@@ -34,6 +34,7 @@ public class SMSReceiveService extends BroadcastReceiver {
 	//defining global data variables
 	GlobalData globalData;
 	Context myContext;
+	Context newContext;
 
 	private static final String SMS_RECEIVED = "android.provider.Telephony.SMS_RECEIVED";
 
