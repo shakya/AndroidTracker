@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list1">
+		<item name ="myLocation">My Location</item>
+	    <item name="viewlocation">Find Others</item>
+	    <item name="currentTrackers">Current trackers</item>
+	    <item name="request">Request to get locations</item>
+	    <item name="viewRequests">Received requests</item>	    
+    	<item name="exit">Exit</item>
+	</string-array>
+    
+</resources> 
